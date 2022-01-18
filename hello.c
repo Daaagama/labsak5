@@ -5,7 +5,7 @@
 #include <linux/ktime.h>
 #include <linux/slab.h>
 
-MODULE_AUTHOR("Taras Samoilenko <assliusarenko@gmail.com>");
+MODULE_AUTHOR("Taras Samoilenko <daaagama@gmail.com>");
 MODULE_DESCRIPTION("Lab 5 AK");
 MODULE_LICENSE("Dual BSD/GPL");
 
